@@ -27,4 +27,9 @@
         city="New York"
         temperature="4C"
         weather="Cloudy" />
+
+    <location
+        city="Oshawa"
+        temperature="10C"
+        weather="Cloudy" />
 </weather>
